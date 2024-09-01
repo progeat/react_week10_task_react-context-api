@@ -1,0 +1,45 @@
+.list-header {
+	margin-bottom: 10px;
+	padding-left: 20px;
+}
+
+.error {
+	color: #cd4242;
+}
+
+.button-sort {
+	text-align: left;
+	margin-bottom: 10px;
+	border: 0;
+	font-weight: 600;
+	color: #eee;
+	background-color: inherit;
+	cursor: pointer;
+}
+
+.button-sort--active {
+	color: #42cd7d;
+}
+
+.button-sort:hover {
+	color: #66917a;
+}
+
+.span {
+	padding: 0 10px 0 5px;
+	color: #eee;
+}
+
+.input-search {
+	border: 0;
+	border-radius: 50px;
+	padding: 5px 10px;
+	color: #eee;
+	background-color: #242846;
+	outline: none;
+}
+
+.input-search:focus {
+	color: #333;
+	background-color: #eee;
+}
